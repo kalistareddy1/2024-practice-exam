@@ -1,0 +1,20 @@
+MOVIE TICKET REPORT
+**************************************************
+MOVIE NAME: Oppenheimer
+MOVIE TICKET PRICE: R 10.0
+NUMBER OF TICKETS: 10
+TOTAL TICKET PRICE: R 114.0**************************************************
+MOVIE TICKET REPORT
+**************************************************
+MOVIE NAME: Damsel
+MOVIE TICKET PRICE: R 50.0
+NUMBER OF TICKETS: 2
+TOTAL TICKET PRICE: R 114.0
+**************************************************
+MOVIE TICKET REPORT
+**************************************************
+MOVIE NAME: Oppenheimer
+MOVIE TICKET PRICE: R 20.0
+NUMBER OF TICKETS: 5
+TOTAL TICKET PRICE: R 114.0
+**************************************************
